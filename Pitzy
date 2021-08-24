@@ -1,0 +1,199 @@
+#EXTM3U
+#EXTINF: 1, TIGO SPORTS +
+https://d24zg71546pjzz.cloudfront.net:443/out/v1/8487b3e109af4961810beeb2339c91e3/index_6.m3u8
+#EXTINF: 1, Tigo Sport 
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_6.m3u8
+#EXTINF: 1, Tigo Sport CRica
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/136513
+#EXTINF: 1, Tigo Sport Bolivia
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/136494
+#EXTINF: 1, TNT SPORT ARG
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/190013
+#EXTINF: 1, TYC SPORTS ARG
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/190016
+#EXTINF: 1,  BEINSPORT Ñ
+http://watch.alienstreams.tv:8080/3934136260/5483122121/2239
+#EXTINF: 1, BEINSPORT HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/768
+#EXTINF: 1, BeinSport Arab 1
+http://109.236.85.116:80/1122334455/5544332211/120441
+#EXTINF: 1, BeinSport Arab 2
+http://109.236.85.116:80/1122334455/5544332211/120438
+#EXTINF: 1, BeinSport Arab 3
+http://109.236.85.116:80/1122334455/5544332211/120435
+#EXTINF: 1, BeinSport UK 1
+http://109.236.85.116:80/1122334455/5544332211/120421
+#EXTINF: 1, BeinSport UK 2
+http://109.236.85.116:80/1122334455/5544332211/120419
+#EXTINF: 1, BeinSport UK 3
+http://109.236.85.116:80/1122334455/5544332211/120417
+#EXTINF: 1, BeinSport FR 1
+http://109.236.85.116:80/1122334455/5544332211/120415
+#EXTINF: 1, BeinSport FR 2
+http://109.236.85.116:80/1122334455/5544332211/120414
+#EXTINF: 1, Foot+ Francia
+http://109.236.85.116:80/1122334455/5544332211/122891
+#EXTINF: 1, BeinSport Premium
+http://109.236.85.116:80/1122334455/5544332211/120411
+#EXTINF: 1, BeinSport Premium 2
+http://109.236.85.116:80/1122334455/5544332211/120408
+#EXTINF: 1, BeinSport Premium 3
+http://109.236.85.116:80/1122334455/5544332211/120405
+#EXTINF: 1, MOVISTAR LaLIGA 
+http://31.220.41.88:8081/live/es-movistarlaliga.stream/chunks.m3u8
+#EXTINF: 1, LaLIGA opción-2
+http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
+#EXTINF: 1, LaLIGA opción-3
+http://109.236.85.116:80/1122334455/5544332211/123009
+#EXTINF: 1, TV BAR LaLIGA 
+http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
+#EXTINF: 1, TV BAR LaLIGA 2
+http://31.220.41.86:8081/live/es-laligatvbar.stream/chunks.m3u8
+#EXTINF: 1, GOL España
+http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8
+#EXTINF: 1, #VAMOS
+http://109.236.85.116:80/1122334455/5544332211/123011
+#EXTINF: 1, Arena Sport 4
+http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8
+#EXTINF: 1, Super Premier League
+http://109.236.85.116:80/1122334455/5544332211/112342
+#EXTINF: 1, Super Premier LaLiga
+http://109.236.85.116:80/1122334455/5544332211/112346
+#EXTINF: 1, Sky Premier League
+http://watch.alienstreams.tv:8080/3934136260/5483122121/14818
+#EXTINF: 1, Sky Premier opc-2
+http://109.236.85.116:80/1122334455/5544332211/85593
+#EXTINF: 1, Sky Premier opc-3
+http://109.236.85.116:80/1122334455/5544332211/85595
+#EXTINF: 1, Sky Sports Arena
+http://watch.alienstreams.tv:8080/3934136260/5483122121/14461
+#EXTINF: 1, Sky Football
+http://31.220.41.88:8081/live/it-skysport-football.stream/chunks.m3u8
+#EXTINF: 1, Sky Football opc-2
+http://31.220.41.88:8081/live/skysports-premier-league.stream/chunks.m3u8
+#EXTINF: 1, Sky Latino
+http://23.237.132.90:8081/live/sky_sports_ehkjbqwe/chunks.m3u8
+#EXTINF: 1, Sky Serie A
+http://31.220.41.88:8081/live/it-skysportserieA.stream/chunks.m3u8
+#EXTINF: 1, Sky Bundesliga
+http://31.220.41.88:8081/live/de-skybundes1.stream/chunks.m3u8
+#EXTINF: 1, Sky Sport 1 Noruega
+http://109.236.85.116:80/1122334455/5544332211/129467
+#EXTINF: 1, Sky Sport 2 Noruega
+http://109.236.85.116:80/1122334455/5544332211/129466
+#EXTINF: 1, Sky Sport 3 Noruega
+http://109.236.85.116:80/1122334455/5544332211/129465
+#EXTINF: 1, Sky Main Event UK
+http://109.236.85.116:80/1122334455/5544332211/85585
+#EXTINF: 1, DAZN 1 Alemania
+http://31.220.41.86:8081/live/de-dazn1.stream/chunks.m3u8
+#EXTINF: 1, DAZN 2 Alemania
+http://stream.tvtap.live:8081/live/it-dazn2.stream/chunks.m3u8
+#EXTINF: 1, ElevenSport Portugal
+http://109.236.85.116:80/1122334455/5544332211/134206
+#EXTINF: 1, ElevenSport 2 Port
+http://109.236.85.116:80/1122334455/5544332211/134202
+#EXTINF: 1, ElevenSport 3 Port
+http://109.236.85.116:80/1122334455/5544332211/134198
+#EXTINF: 1, DAZN Inglaterra
+http://31.220.41.88:8081/live/it-dazn1.stream/chunks.m3u8
+#EXTINF: 1, Sky Sport 3 Alemania
+http://109.236.85.116:80/1122334455/5544332211/116319
+#EXTINF: 1, Sky Sport 5 Alemania
+http://109.236.85.116:80/1122334455/5544332211/116315
+#EXTINF: 1, RCM Sport 1
+http://109.236.85.116:80/1122334455/5544332211/122934
+#EXTINF: 1, RCM Sport 2
+http://109.236.85.116:80/1122334455/5544332211/122933
+#EXTINF: 1, RCM Sport Live 1
+http://109.236.85.116:80/1122334455/5544332211/122926
+#EXTINF: 1, RCM Sport Live 2
+http://109.236.85.116:80/1122334455/5544332211/122925
+#EXTINF: 1, RCM Sport Live 3
+http://109.236.85.116:80/1122334455/5544332211/122924
+#EXTINF: 1, Match Fut1 Rusia
+http://109.236.85.116:80/1122334455/5544332211/130952
+#EXTINF: 1, Match Fut2 Rusia
+http://109.236.85.116:80/1122334455/5544332211/130951
+#EXTINF: 1, Match Premier Rusia
+http://109.236.85.116:80/1122334455/5544332211/130948
+#EXTINF: 1, Fox Deportes
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/189975
+#EXTINF: 1, Fox Sports Sur
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/189978
+#EXTINF: 1, Fox Sports Sur2
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/189981
+#EXTINF: 1, Fox Sports Play
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/96367
+#EXTINF: 1, Fox Sports Premium
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/189986
+#EXTINF: 1, FoxSoccer 1 USA
+http://109.236.85.116:80/1122334455/5544332211/117475
+#EXTINF: 1, FoxSoccer 2 USA
+http://109.236.85.116:80/1122334455/5544332211/117474
+#EXTINF: 1, Fox Sports Australia
+http://109.236.85.116:80/1122334455/5544332211/90523
+#EXTINF: 1, Fox Sports2 Australia
+http://109.236.85.116:80/1122334455/5544332211/90522
+#EXTINF: 1, Fox Sports3 Australia
+http://109.236.85.116:80/1122334455/5544332211/90521
+#EXTINF: 1, Fox Sports4 Australia
+http://109.236.85.116:80/1122334455/5544332211/90519
+#EXTINF: 1, ESPN SUR
+http://195.181.163.39/DEP_ESPN_ARG/tracks-v1a1/mono.m3u8
+#EXTINF: 1, ESPN SUR 2
+http://195.181.163.39/DEP_ESPN_2_ARG/tracks-v1a1/mono.m3u8
+#EXTINF: 1, ESPN PLAY 1
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/96363
+#EXTINF: 1, ESPN PLAY 2
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/96364
+#EXTINF: 1, ESPN PLAY 3
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/96365
+#EXTINF: 1, El Canal del Futbol
+http://23.237.132.90:8081/live/el_canal_de_futbol/playlist.m3u8
+#EXTINF: 1, GOL TV ECUADOR
+http://195.181.163.39:8080/ECU-GOLTV/tracks-v1a1/mono.m3u8
+#EXTINF: 1, GOL PERÚ
+http://23.237.132.90:8081/live/gol_peru_sd/chunks.m3u8
+#EXTINF: 1, GOLTV USA
+http://109.236.85.116:80/1122334455/5544332211/117745
+#EXTINF: 1, WinSport Colombia
+http://daletv.xyz:8080/newtv/Ws2N7ugvE6/136543
+#EXTINF: 1, DIRECTV
+http://23.237.132.90:8081/live/dt_sp_1_wirehtiwa/chunks.m3u8
+#EXTINF: 1, DIRECTV 2
+http://23.237.132.90:8081/live/DIRETV2_rejnaite/chunks.m3u8
+#EXTINF: 1, DIRECTV PLUS
+http://195.181.163.39/ECU-DIRECTTV_SP1/tracks-v1a1/mono.m3u8?A.Iglesias
+#EXTINF: 1, FUTV
+http://23.237.132.90:8081/live/futv/chunks.m3u8
+#EXTINF: 1, FUTBOL UEFA
+http://uefa.mazystreams.xyz/live/3/chunks.m3u8
+#EXTINF: 1, BTSPORTS UK
+http://watch.alienstreams.tv:8080/3934136260/5483122121/14564
+#EXTINF: 1, BTSPORTS 2 UK
+http://watch.alienstreams.tv:8080/3934136260/5483122121/14566
+#EXTINF: 1, BTSPORTS 3 UK
+http://watch.alienstreams.tv:8080/3934136260/5483122121/14568
+#EXTINF: 1, Premier Sports UK
+http://watch.alienstreams.tv:8080/3934136260/5483122121/14728
+#EXTINF: 1, Premier Sports2 UK
+http://watch.alienstreams.tv:8080/3934136260/5483122121/14729
+#EXTINF: 1, TUDN
+http://watch.alienstreams.tv:8080/3934136260/5483122121/14965
+#EXTINF: 1, TUDN USA
+http://watch.alienstreams.tv:8080/3934136260/5483122121/16951
+#EXTINF: 1, TUDNXtra1
+http://watch.alienstreams.tv:8080/3934136260/5483122121/16954
+#EXTINF: 1, TUDNXtra2
+http://watch.alienstreams.tv:8080/3934136260/5483122121/16955
+#EXTINF: 1, TUDNXtra3
+http://watch.alienstreams.tv:8080/3934136260/5483122121/16956
+#EXTINF: 1, TUDNXtra4
+http://watch.alienstreams.tv:8080/3934136260/5483122121/16957
+#EXTINF: 1, MLS
+http://watch.alienstreams.tv:8080/3934136260/5483122121/18205
+#EXTINF: 1, MLS 2
+http://watch.alienstreams.tv:8080/3934136260/5483122121/18206
+#EXTINF: 1, MLS 3
+http://watch.alienstreams.tv:8080/3934136260/5483122121/18207
